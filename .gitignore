@@ -55,3 +55,7 @@ logs
 # yarn.lock
 # pnpm-lock.yaml
 config.bat
+
+# Environment files (re-added after malware removal)
+.env
+.env.local
